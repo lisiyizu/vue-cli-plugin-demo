@@ -15,9 +15,6 @@ module.exports = (api, options) => {
   }
 
   api.extendPackage({
-    scripts: {
-      "build-local": "vue-cli-service serve --mode local"
-    },
     dependencies: {
       "autoprefixer": "^6.7.7",
       "axios": "^0.15.3",
@@ -82,8 +79,6 @@ module.exports = (api, options) => {
         fs.remove(api.resolve(pathFile))
       }
     })
-
-
   })
 
 }
