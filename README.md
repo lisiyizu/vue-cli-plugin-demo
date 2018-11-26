@@ -1,3 +1,4 @@
 ## Intro
 
-为了解决新项目的初始化配置而生，诚恳欢迎 star 和 PR～ (´▽｀)
+vue add @kummy/vue-cli-plugin-demo
+
