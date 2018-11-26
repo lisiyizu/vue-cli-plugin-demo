@@ -1,0 +1,29 @@
+{
+  "name": "@kummy/vue-cli-plugin-demo",
+  "version": "1.1.6",
+  "description": "vue-cli 3 plugin to add @kummy/vue-cli-plugin-demo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisiyizu/vue-cli-plugin-demo.git"
+  },
+  "dependencies": {
+    "@vue/cli-shared-utils": "^3.1.1",
+    "address": "^1.0.3",
+    "copy": "^0.3.2",
+    "resolve": "^1.8.1",
+    "fs-extra": "^6.0.1"
+  },
+  "keywords": [
+    "vue-cli-plugin-demo",
+    "vue",
+    "vue-cli",
+    "vue-cli-plugin"
+  ],
+  "author": "kummy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lisiyizu/vue-cli-plugin-demo/issues"
+  },
+  "homepage": "https://github.com/lisiyizu/vue-cli-plugin-demo#readme"
+}

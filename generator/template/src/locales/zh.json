@@ -1,0 +1,19 @@
+{
+    "message": "hello i18n !!",
+    "home": "home",
+    "about": "about",
+    "global": {
+        "title": "",
+        "hello": ""
+    },
+    "page": {
+    },
+    "ui": {
+    },
+    "bs": {
+    },
+    "apicode": {
+        "1100": "失败",
+        "1122": "登录失效"
+    }
+}
